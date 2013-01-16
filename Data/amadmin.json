@@ -1,0 +1,95 @@
+{
+   
+    "items": [
+        {
+            "text": "client1",
+			"items": [
+                {
+                    "text": "Accounts",
+                    "items": [
+                        {
+                            "text": "Taxable",
+                            "leaf": "true"
+                        },
+                        {
+                            "text": "Non-Taxable",
+                            "leaf": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "client2",
+            "items": [
+                {
+                    "text": "Accounts2",
+                    "items": [
+                        {
+                            "text": "Taxable2",
+                            "leaf": "true"
+                        },
+                        {
+                            "text": "Non-Taxable2",
+                            "leaf": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "client3",
+            "items": [
+                {
+                    "text": "Accounts3",
+                    "items": [
+                        {
+                            "text": "Taxable3",
+                            "leaf": "true"
+                        },
+                        {
+                            "text": "Non-Taxable3",
+                            "leaf": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Client4",
+            "items": [
+                {
+                    "text": "Accounts4",
+                    "items": [
+                        {
+                            "text": "Taxable4",
+                            "leaf": "true"
+                        },
+                        {
+                            "text": "Non-Taxable4",
+                            "leaf": "true"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Client5",
+            "items": [
+                {
+                    "text": "Accounts5",
+                    "items": [
+                        {
+                            "text": "Taxable5",
+                            "leaf": "true"
+                        },
+                        {
+                            "text": "Non-Taxable5",
+                            "leaf": "true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

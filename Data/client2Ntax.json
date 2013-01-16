@@ -1,0 +1,95 @@
+[
+   
+  
+   {
+      "Holding":"Intel Corporation",
+      "Stock":-10.88,
+      "Cash":6.31,
+      "Total":1.58,
+      "Value":"-8.69"
+   },
+   {
+      "Holding":"ABN AMBRO",
+      "Stock":81.41,
+      "Cash":0.44,
+      "Total":0.54,
+      "Value":"-8.65"
+   },
+   {
+      "Holding":"Johnson &#38; Johnson",
+      "Stock":64.72,
+      "Cash":0.06,
+      "Total":0.09,
+      "Value":"-8.65"
+   },
+   {
+      "Holding":"JP Morgan &#38; Chase &#38; Co",
+      "Stock":45.73,
+      "Cash":0.07,
+      "Total":0.15,
+      "Value":"56.2"
+   },
+   {
+      "Holding":"McDonald's",
+      "Stock":36.76,
+      "Cash":0.86,
+      "Total":2.40,
+      "Value":"-8.65"
+   },
+   {
+      "Holding":"Microsoft Corporation",
+      "Stock":25.84,
+      "Cash":0.14,
+      "Total":0.54,
+      "Value":"53.6"
+   },
+   {
+      "Holding":"IBM",
+      "Stock":27.96,
+      "Cash":0.4,
+      "Total":1.45,
+      "Value":"-9.5"
+   },
+   {
+      "Holding":"DLF",
+      "Stock":45.07,
+      "Cash":0.26,
+      "Total":0.58,
+      "Value":"5.6"
+   },
+   {
+      "Holding":"AT&#38;T",
+      "Stock":34.64,
+      "Cash":0.35,
+      "Total":1.02,
+      "Value":"-9.6"
+   },
+   {
+      "Holding":"The Three 3",
+      "Stock":61.91,
+      "Cash":0.01,
+      "Total":0.02,
+      "Value":"56"
+   },
+   {
+      "Holding":"Vodafone",
+      "Stock":63.26,
+      "Cash":0.55,
+      "Total":0.88,
+      "Value":"9.3"
+   },
+   {
+      "Holding":"O2",
+      "Stock":35.57,
+      "Cash":0.39,
+      "Total":1.11,
+      "Value":"-5.6"
+   },
+   {
+      "Holding":"Wal-Mart Stores, Inc.",
+      "Stock":45.45,
+      "Cash":0.73,
+      "Total":1.63,
+      "Value":"56.36"
+   }
+]
